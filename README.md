@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jonathan J.D. Campos
 
-<!--
-**JonathanJDCampos/JonathanJDCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 I'm a passionate software developer focused on **graphics applications** and **game engine development**.
 
-Here are some ideas to get you started:
+## 👀 Interests
+- C++ / TypeScript / JavaScript
+- Graphics APIs: OpenGL, Vulkan, DirectX
+- Game Engines: Unreal Engine, custom engine development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced rendering techniques
+- Vulkan, DirectX, and OpenGL pipeline internals
+
+## 💼 Currently Working On
+- Building and refining custom game engine components
+- Performance optimization for real-time rendering
+
+## 📫 Get in Touch
+- 📧 jonathan.jdcampos@gmail.com
+
+---
+
+
+<!---
+> 💡 This is a ✨ special ✨ repository — its `README.md` appears on your GitHub profile!
+--->
